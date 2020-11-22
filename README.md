@@ -1,4 +1,8 @@
-# Automatic App Landing Page
+# Saving Jar Landing Page
+
+See https://lbeurerkellner.github.io/savingjarpage/.
+
+# Original README: Automatic App Landing Page
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
 Designed for GitHub Pages for super easy set up. 
